@@ -2,7 +2,6 @@
 
 ![Gomoku](https://s2.loli.net/2023/09/08/S1ay6bOGZXL4tH8.png)  
 
-🚀 **Now Live!** Play on [Gomoku3](https://gomoku3.xyz)  
 
 ## 🌟 What is Gomoku Protocol?  
 Gomoku Protocol is a **fully on-chain game**, where the entire game logic is embedded in smart contracts—eliminating the need for centralized game servers.  
@@ -21,8 +20,6 @@ Gomoku is deployed on:
 
 ## 🛠️ Getting Started  
 
-### 🔹 Play the Game  
-Visit [Gomoku3](https://gomoku3.xyz) to start playing.  
 
 ### 🔹 Developers  
 Want to build on top of Gomoku Protocol?  
@@ -36,9 +33,5 @@ Want to build on top of Gomoku Protocol?
 
 ## 🛡️ Security & Trust  
 Gomoku Protocol leverages blockchain security to ensure **fair gameplay and transparency**.  
-
-## 🌍 Join the Community  
-- Twitter: [@GomokuProtocol](#)  
-- Discord: [Join Now](#)  
 
 👨‍💻 **Built for the Future of Gaming!**  
