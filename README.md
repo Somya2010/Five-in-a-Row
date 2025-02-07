@@ -1,16 +1,44 @@
-### Gomoku Protocol is a **fully on-chain game**.
-![gomoku](https://s2.loli.net/2023/09/08/S1ay6bOGZXL4tH8.png) 
+# 🎮 Gomoku Protocol – Fully On-Chain Gaming  
 
-Now deployed, visit [Gomoku3](https://gomoku3.xyz)
+![Gomoku](https://s2.loli.net/2023/09/08/S1ay6bOGZXL4tH8.png)  
 
-The game logic is written in smart contract and running on blockchain, no need for a single game server anymore
+🚀 **Now Live!** Play on [Gomoku3](https://gomoku3.xyz)  
 
-which provide a game composability, like other people can build games (new frontend or add new rules) on top of it.
+## 🌟 What is Gomoku Protocol?  
+Gomoku Protocol is a **fully on-chain game**, where the entire game logic is embedded in smart contracts—eliminating the need for centralized game servers.  
 
-That’s why we call it “protocol”. 
+## 🔥 Why "Protocol"?  
+- **Game Composability** – Developers can build new frontends or introduce custom rules on top of the existing smart contract.  
+- **Decentralized & Transparent** – Every move is recorded immutably on the blockchain.  
+- **Account Abstraction (AA) Wallets** – Players can create **ERC-6551** wallets to store winnings and even trade accounts **without private keys**.  
 
-Users can easily create AA wallets to save winnings or even easily trade thire accounts without private keys(based on ERC6551)
+![AA Wallet](https://s2.loli.net/2023/09/08/iEsf6tuqvyLNBXF.png)  
 
-![AA Wallet](https://s2.loli.net/2023/09/08/iEsf6tuqvyLNBXF.png)
+## 🚀 Deployment  
+Gomoku is deployed on:  
+✅ **LootChain Testnet** – Fast block time & low gas fees  
+✅ **OpBNB Testnet** – Ultra-low cost, ideal for on-chain gaming  
 
-Gomoku was deployed on LootChain Testnet and OpBNB Testnet because of its fast block time and ultra low gas cost, which is a perfect match for a fully on-chain game.
+## 🛠️ Getting Started  
+
+### 🔹 Play the Game  
+Visit [Gomoku3](https://gomoku3.xyz) to start playing.  
+
+### 🔹 Developers  
+Want to build on top of Gomoku Protocol?  
+1. Fork this repository  
+2. Check out the smart contract logic  
+3. Customize your own rules or frontend  
+
+## 📜 Smart Contracts  
+- **Contract Address:** _[Add Contract Address Here]_  
+- **Network:** LootChain Testnet / OpBNB Testnet  
+
+## 🛡️ Security & Trust  
+Gomoku Protocol leverages blockchain security to ensure **fair gameplay and transparency**.  
+
+## 🌍 Join the Community  
+- Twitter: [@GomokuProtocol](#)  
+- Discord: [Join Now](#)  
+
+👨‍💻 **Built for the Future of Gaming!**  
