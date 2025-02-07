@@ -364,7 +364,7 @@ watch(() => editAA.value, (val) => {
           <!-- <n-spin :show="isGetBnb" size="small">
             <div class="hint pointer flex-center" @click="getBnb">点击获取测试ETH</div>
           </n-spin> -->
-          <div class="popover">请向此地址充值DMON,不是Metamask</div>
+          <div class="popover">Please deposit DMON to this address, not Metamask</div>
         </div>
         <div v-if="balance > 0 && !aaAddress">
           <div class="create-btn" @click="createAaWallet"
